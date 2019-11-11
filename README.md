@@ -44,3 +44,11 @@ Usamos la librería de Facebook Prophet para poder analizar la serie de tiempo d
 ![anomalia 01](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/ts_anomaly_mark.png)
 
 [**Click Aquí Para Ver Análisis Tráfico Anómalo**](https://github.com/connectalabs/riots_chile_analisis/blob/master/time_series_twitter_analisis.ipynb)
+
+# 2. Influencia Cuentas Extranjeras
+
+
+# 3. Influencia Medios Locales
+
+
+# 3. Impacto Políticos Chilenos
