@@ -48,7 +48,9 @@ Usamos la librería de Facebook Prophet para poder analizar la serie de tiempo d
 # 2. Influencia Cuentas Extranjeras
 
 
+
 # 3. Influencia Medios Locales
+
 
 
 # 3. Impacto Políticos Chilenos
