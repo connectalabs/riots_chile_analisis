@@ -1,12 +1,10 @@
 
 # Análisis de Datos de Twitter  
- En **ConnectaLabs** continuamos con nuestro esfuerzo de entender lo que está pasando en nuestro querido país y saber si la **DATA** nos puede ayudar.
-
-Para este ejercicio nosotros comenzamos el 20 de Octubre a descargar todos los tweets los hashtags, trending topic chilenos relacionados con estas protestas.
+ En **ConnectaLabs** continuamos con nuestro esfuerzo de entender lo que está pasando en nuestro querido país y saber si la **DATA** nos puede ayudar. Para este ejercicio nosotros comenzamos el 20 de Octubre a descargar todos los tweets los hashtags, trending topic chilenos relacionados con estas protestas.
 
 # Datos
 
-Los datos se obtubieron desde la API pública de Twitter:
+Los datos se obtuvieron desde la API pública de Twitter:
 - Información del: **2019-10-20 al: 2019-11-05**.
 - **4.807.736** de tweets.
 - **638.893** usuarios.
