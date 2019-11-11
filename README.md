@@ -1,4 +1,3 @@
-
 # Análisis de Datos de Twitter  
  En **ConnectaLabs** continuamos con nuestro esfuerzo de entender lo que está pasando en nuestro querido país y saber si la **DATA** nos puede ayudar. Para este ejercicio nosotros comenzamos el 20 de Octubre a descargar todos los tweets los hashtags, trending topic chilenos relacionados con estas protestas.
 
@@ -44,4 +43,4 @@ Usamos la librería de Facebook Prophet para poder analizar la serie de tiempo d
 
 ![anomalia 01](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/ts_anomaly_mark.png)
 
-[**Ver Análisis**](https://github.com/connectalabs/riots_chile_analisis/blob/master/time_series_twitter_analisis.ipynb)
+[**Click Aquí Para Ver Análisis Tráfico Anómalo**](https://github.com/connectalabs/riots_chile_analisis/blob/master/time_series_twitter_analisis.ipynb)
