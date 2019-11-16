@@ -1,7 +1,9 @@
 # Análisis Tweets sobre el levantamiento social en Chile  
-![Análisis Hashtags vs Nacionalidad](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_location_legend.png)
-  
-Continuando con nuestro segundo análisis de los tweets relativos a las masivas movilizaciones y demandas sociales vividas en Chile (ver primera parte [aqui](https://github.com/connectalabs/riots_chile_analisis)), buscamos entender los grupos, nacionalidades, y opinión de las principales cuentas de Twitter en temas de particular interés.  
+<img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_location_legend.png" width="800" align="middle">
+
+---
+
+Continuando con nuestro segundo análisis de los tweets relativos a las masivas movilizaciones y demandas sociales vividas en Chile (ver primera parte [aqui]([https://github.com/connectalabs/riots_chile_analisis/blob/master/time_series_twitter_analisis.ipynb](https://github.com/connectalabs/riots_chile_analisis/blob/master/time_series_twitter_analisis.ipynb))), buscamos entender los grupos, nacionalidades, y opinión de las principales cuentas de Twitter en temas de particular interés.  
   
 Para ésto, tomamos una muestra amplia de hashtags relevantes y los separamos en 3 categorías:  
  1. **Marchas**: Referentes a las marchas y manifestaciones (por ejemplo #chiledesperto)  
@@ -43,25 +45,42 @@ Empleando los tweets relacionados con los hashtags de cada categoría entre el  
         (principalmente cuentas venezolanas, nicaragüenses y cubanas). Su  
         polaridad es marcadamente a favor de las marchas.  
  3. Grupo mayoritariamente chileno. Con una polaridad con sesgo en contra de  
-        las marchas  
-![Grafo Marchas Location](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_location_legend.png)  
-![Grafo Marchas polarity](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_polarity_legend.png)  
-  
+        las marchas 
+---
+<img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_location_legend.png" width="800" align="middle">
+
+-----
+<img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_polarity_legend.png" width="800" align="middle">
+
+----
+
 ### Hashtags relacionados a política  
   Se identifican tres clusters relevantes:  
  1. Grupo mayoritariamente chileno (con algunas cuentas relevantes  
     argentinas). Su inclinación es relativamente a favor cambios políticos/desaprobación del actual gobierno.   
  2. Grupo mayoritariamente extranjero (principalmente cuentas venezolanas, nicaragüenses y cubanas). Su inclinación es marcadamente a favor cambios políticos/desaprobación del actual gobierno.  
  3. Grupo mayoritariamente chileno. Con una polaridad marcada a favor del gobierno y en contra de cambios a la constitución.  
-![Grafo politico Location](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/politico_location_legend.png)  
-![Grafo politico polarity](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/politico_polarity_legend.png)  
+
+---
+<img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/politico_location_legend.png" width="800" align="middle">
+
+-----
+<img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/politico_polarity_legend.png" width="800" align="middle">
+
+----
   
 ### Hashtags relacionados a orden público / fuerzas de orden  
   Se identifican tres clusters relevantes:  
  1. Grupo mayoritariamente chileno (con algunas cuentas relevantes  
     argentinas). Su inclinación es mixta.   
  2. Grupo mayoritariamente extranjero (principalmente cuentas venezolanas, nicaragüenses y cubanas). Su inclinación también mixta.  
- 3. Grupo mayoritariamente chileno. Con una polaridad marcada a favor del orden público y aprobación a las fuerzas de orden.  
-![Grafo orden Location](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/orden_location_legend.png)  
-![Grafo orden polarity](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/orden_polarity_legend.png)  
- 
+ 3. Grupo mayoritariamente chileno. Con una polaridad marcada a favor del orden público y aprobación a las fuerzas de orden. 
+
+---
+<img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/orden_location_legend.png" width="800" align="middle">
+
+-----
+<img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/orden_polarity_legend.png" width="800" align="middle">
+
+----
+
