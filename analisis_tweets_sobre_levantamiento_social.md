@@ -19,6 +19,9 @@ Se identifica de manera transversal en las tres categoría (marchas, orden públ
  3. **Cuentas nacionales en contra de las movilizaciones y cambios políticos**: Estas son cuentas que muestran un sesgo en contra las marchas y los cambios al sistema político, además de apoyar el orden público y las fuerzas de orden.  
   
 Destaca la **baja relevancia de medios de comunicación tradicional y políticos nacionales** (salvo algunas cuantas excepciones), dando pasos a cuentas extranjeras, periodistas independientes y sitios de noticias **no mainstream** (revistas y grupos independientes).  
+
+RESUMEN RELEVANCIA TOP 400 CUENTAS POR CATEGORIA
+<iframe src="https://public.tableau.com/profile/jose.pena#!/vizhome/resumen_twiiter_chile/Story1?publish=yes"></iframe>
   
 ## Metodología  
 Empleando los tweets relacionados con los hashtags de cada categoría entre el  2019-10-20 al 2019-11-05 (un total de 4.807.736 tweets y 638.893 cuentas) se realizó el siguiente proceso:  
