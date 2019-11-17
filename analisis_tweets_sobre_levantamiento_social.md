@@ -1,11 +1,10 @@
 # ANALISIS TWITTER PROTESTAS CHILE (Parte 2)
-##   Detección de comunidades y comportamientos
+##   Detección de comunidades y comportamientos en base a Nacionalidad y Polaridad
 
 <img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_location_legend.png" width="800" align="middle">
-
 ---
 
-Continuando con nuestro segundo análisis de los tweets relativos a las masivas movilizaciones y demandas sociales vividas en Chile (ver primera parte [**Análisis Tráfico Anómalo**]((https://github.com/connectalabs/riots_chile_analisis/blob/master/time_series_twitter_analisis.ipynb))), buscamos entender los grupos, nacionalidades, y opinión de las principales cuentas de Twitter en temas de interés.  
+Continuando con nuestro segundo análisis de los tweets relativos a las masivas movilizaciones y demandas sociales vividas en Chile (ver primera parte [**Análisis Tráfico Anómalo**](https://github.com/connectalabs/riots_chile_analisis/blob/master/time_series_twitter_analisis.ipynb)), buscamos entender los grupos, nacionalidades, y opinión de las principales cuentas de Twitter en temas de interés.  
   
 Para ésto, tomamos una muestra amplia de hashtags relevantes y los separamos en 3 categorías:  
  1. **Marchas**: Referentes a las marchas y manifestaciones (por ejemplo #chiledesperto)  
@@ -80,9 +79,7 @@ Empleando los tweets relacionados con los hashtags de cada categoría entre el  
 
 ---
 <img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/orden_location_legend.png" width="800" align="middle">
-
 ---
 <img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/orden_polarity_legend.png" width="800" align="middle">
-
 ----
 
