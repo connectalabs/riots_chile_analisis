@@ -22,10 +22,11 @@
 [**Click Aquí Para Ver Análisis Tráfico Anómalo**](https://github.com/connectalabs/riots_chile_analisis/blob/master/time_series_twitter_analisis.ipynb)    
  # 2. Análisis tweets sobre el levantamiento social Nacionalidad y Polaridad.    
    
- -Se identifica de manera transversal en las tres categoría (marchas, orden público y política) la existencias de 3 clusters bien definidos los cuales presentan homogeneidad en términos de nacionalidad y polaridad. La relevancia y principales actores en éstas varían según la categoría:    
+ Se identifica de manera transversal en las tres categoría (marchas, orden público y política) la existencias de 3 clusters bien definidos los cuales presentan homogeneidad en términos de nacionalidad y polaridad. La relevancia y principales actores en éstas varían según la categoría:    
  1. **Cuentas nacionales pro movilizaciones y cambios políticos**  
  2. **Cuentas extranjeras pro movilizaciones y cambios políticos**  
  3. **Cuentas nacionales en contra de las movilizaciones y cambios políticos**  
-  ![Análisis Hashtags vs Nacionalidad](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_location_legend.png)    
+ 
+ ![Análisis Hashtags vs Nacionalidad](https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_location_legend.png)    
   
 [**Click Aquí Para Ver Análisis por Tema**](https://github.com/connectalabs/riots_chile_analisis/blob/master/analisis_tweets_sobre_levantamiento_social.md)  
