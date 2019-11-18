@@ -78,3 +78,13 @@ Empleando los tweets relacionados con los hashtags de cada categoría entre el  
 <img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/orden_polarity_legend.png" width="800" align="middle">  
   
 **[Click para ver mapa interactivo | Orden Polaridad](http://bit.ly/2NWnVAC)**
+
+
+# ConnectaLabs AI
+
+ConnectaLabs AI es una empresa especialista en el desarrollo de soluciones de inteligencia artificial para la comprensión del cliente. Si quieres saber más de nosotros y nuestros servicios puedes contactarnos en nuestras RRSS.
+
+ - Email: [ai@connectalabs.ai](mailto:ai@connectalabs.ai?subject=Riots-Chile)
+ - Web: [https://www.connectalabs.ai](https://www.connectalabs.ai)
+ - Linkedin: [https://www.linkedin.com/company/connecta-labs-ai](https://www.linkedin.com/company/connecta-labs-ai)
+ - Medium: [https://medium.com/connecta-ai](https://medium.com/connecta-ai)
