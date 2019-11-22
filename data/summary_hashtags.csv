@@ -12,11 +12,11 @@ renunciasharp,,pineraverguenzamundial
 vamosadecirqueno,,nuevaconstitucionahora
 fuerzapresidente,,plebicito15d
 ,,aguantesharp
-,,nuevaconstitucionparachile
 ,,noalos2tercios
 ,,cocinaconstituyente
 ,,picoenelojo
 ,,notenemospresidente
+,,
 ,,
 Orden Publico/Fuerzas de orden,,
 -1 (pro orden publico /fuerzas orden,0,1 (anti orden publico/Fuerzas Orden)
@@ -24,13 +24,15 @@ nomasdelincuencia,toquedequedachile,losmilicosnosontusamigos
 nomasencapuchados,toquedequedatotal,evasionmetro
 militaresalacalleya,toquedequeda,evasiontodoeldia
 toquedequedaahora,metroselevanta,prensaprostituida
-chilepaisdepiromanos,pazparachile,sinigualdadnohaypaz
-nomasviolencia,yotengopyme,chileenreveldia
-noestamosenguerra,pazporchile,evasionmasiva
-chalecosamarillos,estadodesitio,nomastag
-graciascarabineros,estadodeemergencia,mariorozascriminal
-militaresalpoder,,noqueremosmilicos
-militaresalacalle,,rubilarasesina
+chilepaisdepiromanos,yotengopyme,sinigualdadnohaypaz
+nomasviolencia,estadodesitio,chileenreveldia
+noestamosenguerra,estadodeemergencia,evasionmasiva
+chalecosamarillos,,nomastag
+pazporchile,,mariorozascriminal
+pazparachile,,noqueremosmilicos
+graciascarabineros,,rubilarasesina
+militaresalpoder,,
+militaresalacalle,,
 graciascarabinerosdechile,,
 fuerzacarabinerosdechiles,,
 ,,
@@ -38,10 +40,10 @@ Marchas,,
 -1 (Anti Marchas),0,1 (Pro Marchas)
 nomasmarcha,superlunes,chiledepie
 nomasmarchas,costaneracenter,chiledesperto
-estadodeemergencia,parionacional21n,chilequierecambios
-yonoparo,paro21denoviembre,chileseaburrio
-yonobailo,paronacional,chilenoquieremigajas
-yonomarcho,,chilesecanso
+yonoparo,parionacional21n,chilequierecambios
+yonobailo,paro21denoviembre,chileseaburrio
+yonomarcho,paronacional,chilenoquieremigajas
+,,chilesecanso
 ,,lamarchamasgrandedechile
 ,,lamarchamasgrandedetodas
 ,,catrillanca
