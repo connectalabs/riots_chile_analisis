@@ -56,9 +56,13 @@ Empleando los tweets relacionados con los hashtags de cada categoría entre el  
  3. Grupo mayoritariamente chileno. Con una polaridad con sesgo en contra de las marchas.    
     
 <img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_location_legend.png" width="800" align="middle">    
+ 
  **[Click para ver mapa interactivo | Marchas Ubicación](http://bit.ly/2qpKdSr)**    
+ 
  <img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/marchas_polarity_legend.png" width="800" align="middle">    
- **[Click para ver mapa interactivo | Polaridad](http://bit.ly/2r46zZO)**    
+ 
+ **[Click para ver mapa interactivo | Polaridad](http://bit.ly/2r46zZO)**
+ 
  ## Resultados Hashtags | Política    
  Se identifican tres clusters relevantes:      
  1. Grupo mayoritariamente chileno (con algunas cuentas relevantes argentinas). Su inclinación es relativamente a favor cambios políticos/desaprobación del actual gobierno.       
@@ -66,18 +70,25 @@ Empleando los tweets relacionados con los hashtags de cada categoría entre el  
  3. Grupo mayoritariamente chileno. Con una polaridad marcada a favor del gobierno y en contra de cambios a la constitución.      
     
 <img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/politico_location_legend.png" width="800" align="middle">    
+
  **[Click para ver mapa interactivo | Política Ubicación](http://bit.ly/2KsEthG)**    
+ 
  <img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/politico_polarity_legend.png" width="800" align="middle">    
+ 
  **[Click para ver mapa interactivo | Política Polaridad](http://bit.ly/2CQabkv)**    
+ 
  ## Resultados Hashtags | Orden Público / Fuerzas de Orden      
  Se identifican tres clusters relevantes:      
  1. Grupo mayoritariamente chileno (con algunas cuentas relevantes argentinas). Su inclinación es mixta.       
  2. Grupo mayoritariamente extranjero (principalmente cuentas venezolanas, nicaragüenses y cubanas). Su inclinación también mixta.      
  3. Grupo mayoritariamente chileno. Con una polaridad marcada a favor del orden público y aprobación a las fuerzas de orden.     
     
-<img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/orden_location_legend.png" width="800" align="middle">    
- **[Click para ver mapa interactivo | Orden Ubicación](http://bit.ly/331bacw)**    
+<img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/orden_location_legend.png" width="800" align="middle">   
+
+ **[Click para ver mapa interactivo | Orden Ubicación](http://bit.ly/331bacw)**   
+  
  <img src="https://raw.githubusercontent.com/connectalabs/riots_chile_analisis/master/plots/orden_polarity_legend.png" width="800" align="middle">    
+ 
  **[Click para ver mapa interactivo | Orden Polaridad](http://bit.ly/2NWnVAC)**  
   
   
