@@ -1,5 +1,20 @@
 # Análisis de Datos de Twitter        
- En **ConnectaLabs** continuamos con nuestro esfuerzo de entender lo que está pasando en nuestro querido país y saber si la **DATA** nos puede ayudar. Para este ejercicio nosotros comenzamos el 20 de Octubre a descargar todos los tweets los hashtags, trending topic chilenos relacionados con estas protestas.      
+            
+ > **Update 26–11–2019:** Quisiéramos darles las gracias por los cientos de comentarios de apoyo que hemos recibido a nuestro análisis de redes  
+> sociales y aprovechar esta instancia para hacer algunas aclaraciones  
+> sobre el objetivo y alcance de este:  
+> - El análisis no pretenden ser representativo de toda la ciudadanía chilena, este solo busca mostrar el comportamiento de las cuentas de  
+> Twitter que interactuaron con los hashtags mas relevantes, entre el 20  
+> de Octubre y 5 de Noviembre.  
+> - Hay un video que se ha propagado en las RRSS con algunas opiniones que no nos representan como empresa y que sacan de contexto nuestro  
+> informe. Nuestra intención es entregar visibilidad de algunos  
+> comportamientos que hay en RRSS.  
+> - Nos hicieron un comentario sobre un gráfico en nuestro blog (2.000 cuentas más influyentes por Ubicación), que podría llevar a malas  
+> conclusiones, preferimos eliminar este plot para no causar  
+> confusiones.  
+> Nuevamente, muchas gracias!   Equipo ConnectaLabs  
+  
+  En **ConnectaLabs** continuamos con nuestro esfuerzo de entender lo que está pasando en nuestro querido país y saber si la **DATA** nos puede ayudar. Para este ejercicio nosotros comenzamos el 20 de Octubre a descargar todos los tweets los hashtags, trending topic chilenos relacionados con estas protestas.      
       
 # Datos      
  Los datos se obtuvieron desde la API pública de Twitter:      
